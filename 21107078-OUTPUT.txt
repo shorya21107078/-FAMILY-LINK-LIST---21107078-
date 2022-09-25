@@ -1,0 +1,13 @@
+Enter Number Of Family Members:4
+Enter Family Member 1 Name:RAJEEV AGGARWAL
+Enter Family Member 1 Age:44
+Enter Family Member 2 Name:ABHA AGGARWAL
+Enter Family Member 2 Age:38 9
+Enter Family Member 3 Name:SHREYA AGGARWAL
+Enter Family Member 3 Age:19
+Enter Family Member 4 Name:SHORYA AGGARWAL
+Enter Family Member 4 Age:19
+
+Doubly Linked list with my family members as elements is shown below:
+
+[Name:RAJEEV AGGARWAL Age:44]<=>[Name:ABHA AGGARWAL Age:39]<=>[Name:SHREYA AGGARWAL Age:19]<=>[Name:SHORYA AGGARWAL Age:19]<=>
